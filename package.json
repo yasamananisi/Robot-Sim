@@ -8,7 +8,6 @@
     "test": "mocha --compilers js:babel-core/register",
     "start": "webpack-dev-server --hot --content-base ./ --config webpack.config.js"
   },
-  "author": "Jack Cuthbert <jckcthbrt@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.10.1",
